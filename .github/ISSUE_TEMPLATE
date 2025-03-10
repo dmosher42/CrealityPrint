@@ -27,8 +27,6 @@ If you are reporting a bug, please provide the following information to help us 
 **Environment**:  
 - **Operating System**: [e.g., Windows 10, macOS 11, Linux Ubuntu 20.04]
 - **Version**: [e.g., v1.0.0, commit hash, etc.]
-- **Browser** (if applicable): [e.g., Chrome, Firefox, etc.]
-- **Dependencies**: [List any relevant libraries, frameworks, or dependencies and their versions.]
 
 **Logs/Errors**:  
 [Include any error messages or logs related to the issue.]
