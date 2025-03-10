@@ -69,4 +69,20 @@ If you are suggesting improvements to an existing feature, please provide the fo
 **Description**:  
 [A clear and concise description of what should be enhanced.]
 
-**Curr
+**Current Behavior**:  
+[What is the current behavior or limitation?]
+
+**Proposed Solution**:  
+[How should the enhancement be implemented or what changes should be made?]
+
+**Additional Context**:  
+[Add any other context or relevant information about the enhancement.]
+
+---
+
+## Checklist (for bug reports and feature requests):
+
+- [ ] I have read the [contributing guidelines](CONTRIBUTING.md).
+- [ ] I have checked to see if the issue has already been reported.
+- [ ] I have provided as much detail as possible.
+- [ ] I am open to discussing the proposed solution or idea.
