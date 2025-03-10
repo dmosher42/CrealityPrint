@@ -1,0 +1,74 @@
+# Issue Template
+
+_The following templates were generated using ChatGPT._
+
+## Bug Report  
+If you are reporting a bug, please provide the following information to help us resolve the issue as quickly as possible.
+
+---
+
+**Title**:  
+[Brief description of the bug]
+
+**Description**:  
+[A clear and concise description of what the bug is.]
+
+**Steps to Reproduce**:  
+1. [Step one]
+2. [Step two]
+3. [Step three]
+
+**Expected Behavior**:  
+[What you expected to happen.]
+
+**Actual Behavior**:  
+[What actually happened.]
+
+**Environment**:  
+- **Operating System**: [e.g., Windows 10, macOS 11, Linux Ubuntu 20.04]
+- **Version**: [e.g., v1.0.0, commit hash, etc.]
+- **Browser** (if applicable): [e.g., Chrome, Firefox, etc.]
+- **Dependencies**: [List any relevant libraries, frameworks, or dependencies and their versions.]
+
+**Logs/Errors**:  
+[Include any error messages or logs related to the issue.]
+
+**Additional Context**:  
+[Add any other context about the problem, such as screenshots or relevant configuration details.]
+
+---
+
+## Feature Request  
+If you are submitting a feature request, please provide the following information.
+
+---
+
+**Title**:  
+[Brief description of the feature]
+
+**Description**:  
+[A clear and concise description of the feature.]
+
+**Use Case**:  
+[Why is this feature needed? Who would benefit from it?]
+
+**Expected Behavior**:  
+[What should the feature do or how should it behave?]
+
+**Additional Context**:  
+[Add any other context about the feature, such as suggestions for implementation or similar tools.]
+
+---
+
+## Enhancement  
+If you are suggesting improvements to an existing feature, please provide the following information.
+
+---
+
+**Title**:  
+[Brief description of the enhancement]
+
+**Description**:  
+[A clear and concise description of what should be enhanced.]
+
+**Curr
